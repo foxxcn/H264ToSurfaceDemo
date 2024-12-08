@@ -1,0 +1,8 @@
+.idea/(*.xml,*.iml,.idea/caches,navEditor.xml,assetWizardSettings.xml)
+.gradle/(?!wrapper)
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+local.properties
